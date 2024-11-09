@@ -21,12 +21,16 @@ Emerging economies are at the forefront of global change, driving growth while f
 
 **The Economic-Environmental Balance**
 Our project begins by examining the relationship between GDP growth and CO₂ emissions, assessing how emerging economies have managed economic expansion alongside environmental sustainability. We will build predictive models to forecast CO₂ emissions trends and evaluate the trade-offs these nations face.
+
 **Employment and Economic Growth**
 We will dive into how GDP trends align with employment data to understand whether growth has translated into meaningful job creation. This analysis will provide insights into which emerging economies have succeeded in using economic growth to bolster employment rates and which have faced challenges.
+
 **Social Development Through Life Expectancy Analysis**
 Investigating the evolution of life expectancy will reveal how emerging economies have fared in improving the health and well-being of their populations. We will correlate this with demographic data to identify potential drivers and inhibitors of public health progress.
+
 **Infrastructure Development**
 Access to electricity is a foundational indicator of a country's infrastructure and development. By visualising changes over time, we will pinpoint regions that have seen significant progress versus those that still face challenges in reaching comprehensive coverage.
+
 **Demographic Shifts and Population Dynamics**
 Visualising population growth over time will allow us to assess the demographic shifts impacting these economies. Understanding these trends is vital for addressing future resource needs, urban planning, and economic strategy.
 
